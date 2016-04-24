@@ -23,7 +23,7 @@ table.center {
   margin-top: 10px;
   border: ridge;
   border-color: blue;
-  background-color: #ccccff;
+  background-color:#ccccff;
 }
 
 .output tr:nth-child(odd) {
